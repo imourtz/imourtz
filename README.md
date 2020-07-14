@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.imourtz.com/" target="_blank">
-    <img src="https://www.imourtz.com/readmeGit.svg" alt="Personal Website" />
+    <img src="https://www.imourtz.com/images/readmeGit.svg" alt="Personal Website" />
   </a>  
 </p>
 

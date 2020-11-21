@@ -6,5 +6,5 @@
 
 <p align="center">
   <b>Hey, I'm Ioanna 👋</b> <br />
-  I'm working as a Software Engineer for <a href="https://www.tivix.com/" target="_blank">Tivix, Inc</a>.
+  I'm working as a Developer for <a href="https://www.threadsstyling.com/" target="_blank">Threads Styling, Ltd</a>.
 </p>

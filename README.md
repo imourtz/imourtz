@@ -6,5 +6,5 @@
 
 <p align="center">
   <b>Hey, I'm Ioanna 👋</b> <br />
-  I'm working as a Developer for <a href="https://www.threadsstyling.com/" target="_blank">Threads Styling, Ltd</a>.
+  I'm working as a Full Stack Engineer for <a href="https://www.moonpay.com/" target="_blank">MoonPay</a>.
 </p>
